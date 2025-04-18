@@ -1,5 +1,8 @@
 # vnmark-view
 
+[![NPM version](https://img.shields.io/npm/v/vnmark-view.svg)](https://npmjs.org/package/vnmark-view)
+[![NPM downloads](https://img.shields.io/npm/dt/vnmark-view.svg)](https://npmjs.org/package/vnmark-view)
+
 A VNMark view based on Web technologies.
 
 ## License
